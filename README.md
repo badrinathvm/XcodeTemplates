@@ -16,7 +16,7 @@ chomd +x xcodetemplates.sh
 
 Once the shell scripts succeeds you will be an output like below.
 
-![image](https://github.intuit.com/storage/user/19850/files/3bbd3900-e762-11eb-930c-0e7abc754637)
+<img src="https://raw.githubusercontent.com/badrinathvm/XcodeTemplates/master/images/success.png" width="250"  alt="example1"  align="center"/>
 
 # Manual 
 Copy `Asset.xctemplate`, `SwiftUIAsset.xctemplate` and place it in below folder path 
@@ -31,4 +31,4 @@ Copy `Asset.xctemplate`, `SwiftUIAsset.xctemplate` and place it in below folder 
 1. Start `Xcode` and add a new file from menu bar `( File -> New )`
 1. Scroll down until you see the **Custom** section and select `Asset` or `SwiftUIAsset`:
 
-![image](https://github.intuit.com/storage/user/19850/files/3e1c9480-e75c-11eb-812f-c72b754f3e5e)
+<img src="https://raw.githubusercontent.com/badrinathvm/XcodeTemplates/master/images/filetemplate.png" width="250"  alt="example1"  align="center"/>
