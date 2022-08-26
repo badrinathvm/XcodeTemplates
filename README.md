@@ -10,7 +10,7 @@ Clone the repository
 Execute below commands in sequential order
 
 ```ruby
-chomd +x xcodetemplates.sh
+chmod +x xcodetemplates.sh
 ./xcodetemplates.sh
 ```
 
